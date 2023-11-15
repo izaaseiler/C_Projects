@@ -1,2 +1,2 @@
 # Cprojects
-Beginning training in C and C++, studying the logic of the C language.
+Starting to study the C programming language. 
